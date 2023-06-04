@@ -3,4 +3,7 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/682552229613404161)](https://discord.com/users/682552229613404161)
+***
+<h2> Programming is beautiful!</h2>
+
 ![Metrics](/github-metrics.svg)  
