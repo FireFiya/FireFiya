@@ -6,4 +6,4 @@
 ***
 <h2> Programming is beautiful!</h2>
 
-![Metrics](/github-metrics.svg)  
+[![Metrics](/github-metrics.svg)]()
