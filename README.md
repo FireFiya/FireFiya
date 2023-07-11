@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm FireFiya, how's going</h1>
 
-[<img align='left' src='https://avatars.githubusercontent.com/u/126648922?v=4' width='45%'>](https://github.com/FireFiya)
+[<img align='left' src='https://avatars.githubusercontent.com/u/126648922?v=4' width='50%'>](https://github.com/FireFiya)
  
 [<img src='https://lanyard.cnrad.dev/api/682552229613404161' width='400px'>](https://github.com/FireFiya)
 
