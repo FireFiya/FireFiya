@@ -4,6 +4,7 @@
  
 [<img src='https://lanyard.cnrad.dev/api/682552229613404161' width='400px'>](https://discord.com/users/682552229613404161)
 
+<details open>
 <code><img height="30" src="pic_source/Facebook.png"></code>
 <a href="https://www.facebook.com/profile.php?id=100003514143477">**Facebook**</a>
 
@@ -15,6 +16,7 @@
 
 <code><img height="30" src="pic_source/Twitch.png"></code>
 <a href="https://www.twitch.tv/firefiya">**Twitch**</a>
+<details/>
   
 <p align="center">
   <a href="https://github.com/FireFiya"><img width="75%" src="/github-metrics.svg"/></a>
