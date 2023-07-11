@@ -2,7 +2,7 @@
 
 [<img align='left' src='https://avatars.githubusercontent.com/u/126648922?v=4' width='45%'>](https://github.com/FireFiya)
  
-[<img src='https://lanyard.cnrad.dev/api/682552229613404161' width='410px'>](https://github.com/FireFiya)
+[<img src='https://lanyard.cnrad.dev/api/682552229613404161' width='45%'>](https://github.com/FireFiya)
 
 <code><img height="30" src="https://github.com/FireFiya/FireFiya/blob/main/pic_source/Facebook.png"></code>
 <a href="https://www.facebook.com/profile.php?id=100003514143477" target="_blank">Facebook</a>
