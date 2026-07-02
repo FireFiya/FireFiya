@@ -15,13 +15,3 @@
 
 <code><img height="30" src="pic_source/Twitch.png"></code>
 <a href="https://www.twitch.tv/firefiya">**Twitch**</a>
-
-</br>
-</br>
-
-<details open align="center">
- <summary><h1><img height="30" src="pic_source/Github.png">GitHub Metrics</h1></summary>
- <p align="center">
-   <a href="https://github.com/FireFiya"><img width="75%" src="/github-metrics.svg"/></a>
- </p>
-</details>
